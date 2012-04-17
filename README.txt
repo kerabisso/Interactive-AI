@@ -1,1 +1,2 @@
-Hallo Welt! Haha
+Hallo Welt!
+Kleiner Bär
