@@ -1,0 +1,425 @@
+Raised and waiting for configuration
+Got configuration
+1 User, processing
+Creating user entity 
+Creating Render Actor for display group 0
+Creating
+Creating scene graph root.
+Creating map for cameras
+Creating list for cameras
+Creating map for mirror cameras
+Creating list for camera updater
+Creating map for skyboxes
+Creating list for windows
+Creating list for pipelines
+Adding Handler for SubscribeForRenderSteps message  
+Adding Handler for UnsubscribeForRenderSteps message  
+Starting Render Actor
+Configuring Render Actor
+Adding render actor to list of render actors
+Setting auto render flag to true
+Got configuration and configuring
+Creating render window
+Intitial value requested for SVal(Semantics as OntologySymbol) = user
+Adding to list of users 
+Intitial value requested for SVal(Semantics as OntologySymbol) = spotLight
+Got new completed entity and distribute it to 1 actors
+Type SVal(Semantics as OntologySymbol) = spotLight
+Raised and waiting for configuration
+Got configuration
+1 User, processing
+Creating user entity 
+Creating Render Actor for display group 0
+Creating
+Creating scene graph root.
+Creating map for cameras
+Creating list for cameras
+Creating map for mirror cameras
+Creating list for camera updater
+Creating map for skyboxes
+Creating list for windows
+Creating list for pipelines
+Adding Handler for SubscribeForRenderSteps message  
+Adding Handler for UnsubscribeForRenderSteps message  
+Starting Render Actor
+Configuring Render Actor
+Adding render actor to list of render actors
+Setting auto render flag to true
+Got configuration and configuring
+Creating render window
+Intitial value requested for SVal(Semantics as OntologySymbol) = user
+Adding to list of users 
+Intitial value requested for SVal(Semantics as OntologySymbol) = spotLight
+Got new completed entity and distribute it to 1 actors
+Type SVal(Semantics as OntologySymbol) = spotLight
+Raised and waiting for configuration
+Got configuration
+1 User, processing
+Creating user entity 
+Creating Render Actor for display group 0
+Creating
+Creating scene graph root.
+Creating map for cameras
+Creating list for cameras
+Creating map for mirror cameras
+Creating list for camera updater
+Creating map for skyboxes
+Creating list for windows
+Creating list for pipelines
+Adding Handler for SubscribeForRenderSteps message  
+Adding Handler for UnsubscribeForRenderSteps message  
+Starting Render Actor
+Configuring Render Actor
+Adding render actor to list of render actors
+Setting auto render flag to true
+Got configuration and configuring
+Creating render window
+Intitial value requested for SVal(Semantics as OntologySymbol) = user
+Adding to list of users 
+Intitial value requested for SVal(Semantics as OntologySymbol) = spotLight
+Got new completed entity and distribute it to 1 actors
+Type SVal(Semantics as OntologySymbol) = spotLight
+One eye
+Creating pipeline
+Constructing keyboad entity
+Registring keyboard listener
+Registring window listener
+Rendering next frame
+Received new Scene Element
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
+Rendering next frame
