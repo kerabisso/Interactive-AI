@@ -61,7 +61,7 @@ public class MapCreator {
 	
 	
 	
-	//Blubb
+	//Blubb2
 	public void buildGraph() {
 		
 		// Alle Knoten in Liste Nodes bestimmten
